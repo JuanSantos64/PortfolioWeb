@@ -195,13 +195,13 @@ h1  {
     padding-top: 1rem;
     text-align: center;   
 }
-.imagesAboutMe > .redesSociais > figure > img {
+.imagesAboutMe > .redesSociais > a > figure > img {
     border-radius: 466px;
     width: 135px;
     height: 135px;
 }
 
-.imagesAboutMe > .redesSociais > figure {
+.imagesAboutMe > .redesSociais > a > figure {
     padding-bottom: 0.75rem;
 }
 .imagesAboutMe > .redesSociais {
